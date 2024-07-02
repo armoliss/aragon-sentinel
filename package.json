@@ -1,6 +1,6 @@
 {
   "name": "aragon-sentinel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Node.js library that provides an easy-to-use interface for hashing and verifying passwords using the Argon2 algorithm. It is designed to be simple, secure, and efficient.",
   "main": "index.js",
   "scripts": {
