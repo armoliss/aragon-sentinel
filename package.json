@@ -1,0 +1,18 @@
+{
+  "name": "aragon-sentinel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Armolis",
+  "license": "MIT",
+  "dependencies": {
+    "argon2": "^0.40.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
